@@ -1,9 +1,9 @@
-### Hi there👋
+## Hi there 👋 my name is Adi
 
-My name is Adi, A passionate full-stack developer from [Israel]
+### A passionate full-stack developer from Israel
 
 - 🎓 B.Sc. Industrial Engineering and Management graduate with a specialization in Information Systems, graduated **with honors**
-- 📱 My most recent project in React Native is ['AgroConnect' app](#) <https://proj.ruppin.ac.il/gallery/#/AllProjects--> (search 'AgroConnect')
+- 📱 My most recent project in React Native is [AgroConnect app](https://proj.ruppin.ac.il/gallery/#/AllProjects) (search "AgroConnect")
 - 💬 Ask me about **React, React Native, C#, JavaScript**
 - 🧁 Baking is my **therapy**
 - 📫 How to reach me [Adihadad5566@gmail.com](mailto:Adihadad5566@gmail.com)
