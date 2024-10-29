@@ -2,11 +2,11 @@
 
 ### A passionate full-stack developer from Israel
 
-- 🎓 B.Sc. Industrial Engineering and Management graduate with a specialization in Information Systems, graduated **with honors**
-- 📱 My most recent project in React Native is [AgroConnect app](https://proj.ruppin.ac.il/gallery/#/AllProjects) (search "AgroConnect")
-- 💬 Ask me about **React, React Native, C#, JavaScript**
-- 🧁 Baking is my other **therapy**, along with coding
-- 📫 How to reach me [Adihadad5566@gmail.com](mailto:Adihadad5566@gmail.com)
+- 🎓 B.Sc. in Industrial Engineering and Management with a specialization in Information Systems, graduated **with honors**.
+- 📱 My most recent project in React Native is [AgroConnect app](https://github.com/ruppinCgroup64/AgroConnect.git), for information about [my project](https://proj.ruppin.ac.il/gallery/#/AllProjects) (search "AgroConnect").
+- 💬 Ask me about **React, React Native, C#, JavaScript**.
+- 🧁 Baking is my other **therapy**, along with coding.
+- 📫 How to reach me: [Adihadad5566@gmail.com](mailto:Adihadad5566@gmail.com).
 
 ---
 
